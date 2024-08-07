@@ -19,7 +19,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/respected-playground.git
+   git clone https://github.com/aprob215/respected-playground.git
    ```
 
 2. Navigate to the project directory:
