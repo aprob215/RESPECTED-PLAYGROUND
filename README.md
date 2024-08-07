@@ -20,7 +20,7 @@
 1. Clone the repository:
    ```bash
    git clone https://github.com/aprob215/respected-playground.git
-   ```
+   ``` 
 
 2. Navigate to the project directory:
    ```bash
@@ -43,7 +43,26 @@
 
 ## Contributing
 
-Contributions are welcome! Please see the [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines.
+# Contributing to RESPECTED PLAYGROUND
+
+Thanks for your interest in contributing to RESPECTED PLAYGROUND! We welcome contributions from the community.
+
+## How to Contribute
+
+1. Fork the repository.
+2. Create a new branch for your feature or bugfix (`git checkout -b feature-name`).
+3. Make your changes.
+4. Commit your changes (`git commit -m 'Add feature'`).
+5. Push to the branch (`git push origin feature-name`).
+6. Create a Pull Request.
+
+Please ensure your code follows the project's style and is well-documented.
+
+## Code of Conduct
+
+This project adheres to a [Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code.
+
+
 
 ## License
 
